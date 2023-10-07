@@ -35,7 +35,16 @@
     para ayudar a construir un mundo digital más innovador y sólido.
 
 ¡No dudes en contactarme si quieres colaborar en algún proyecto interesante o simplemente charlar sobre tecnología! 😄
-
+<h2 align="center">🔔 Social Networking Contact 📲</h2>
+<div align="center">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/rodriguezmldo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/rodriguezmldo)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/rodriguezmldo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/rodriguezmldo)  
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/rodriguezmldo)
+  
+</div>
 <!--
 **rodriguezmldo/rodriguezmldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
