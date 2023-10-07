@@ -16,19 +16,23 @@
         <a href="https://t.me/rodriguezmldo"><img src="https://img.shields.io/badge/Telegram-0088dc?style=flat&logo=telegram" alt="Telegram" /></a>
 </div>
 
-¡Hola! 👋 Soy Antonio, un estudiante de 18 años de Ingeniería en Sistemas Computacionales en la Benemérita Universidad Autónoma de Puebla.
+¡Hola! 👋 Soy Antonio, un estudiante de 18 años de Ingeniería en Sistemas Computacionales en la <a href="https://www.buap.mx/">Benemérita Universidad Autónoma de Puebla</a>.
 
-Sobre mí
+**About me**
 
-    🌟 Apasionado por el mundo de la tecnología y la programación.
-    💻 Mis principales intereses abarcan el Desarrollo Web, el Desarrollo de Videojuegos, el Mantenimiento de Software y Hardware, Bases de Datos y Componentes Electrónicos.
-    ⌨️ En mi tiempo libre, me dedico a mejorar mis habilidades de mecanografía y participo activamente en foros en inglés para mantenerme actualizado.
-    🚀 Siempre estoy trabajando en el desarrollo y depuración de nuevos proyectos, buscando aprender y crecer.
+- 🌟 Apasionado por el mundo de la tecnología y la programación.
+- 💻 Mis principales intereses abarcan el Desarrollo Web, el Desarrollo de Videojuegos, el Mantenimiento de Software y Hardware, 
+    Bases de Datos y Componentes Electrónicos.
+- ⌨️ En mi tiempo libre, me dedico a mejorar mis habilidades de mecanografía y participo activamente en foros en inglés 
+    para mantenerme actualizado.
+- 🚀 Siempre estoy trabajando en el desarrollo y depuración de nuevos proyectos, buscando aprender y crecer.
 
-Objetivos
+**Objectives**
 
-    🎯 Mis expectativas personales giran en torno a formarme como un desarrollador competente, con las habilidades y herramientas necesarias para contribuir en proyectos colaborativos, de código abierto y personales.
-    🌐 Me esfuerzo por ser parte de la comunidad de desarrolladores, compartiendo conocimientos y experiencias para ayudar a construir un mundo digital más innovador y sólido.
+- 🎯 Mis expectativas personales giran en torno a formarme como un desarrollador competente, con las habilidades y herramientas 
+    necesarias para contribuir en proyectos colaborativos, de código abierto y personales.
+- 🌐 Me esfuerzo por ser parte de la comunidad de desarrolladores, compartiendo conocimientos y experiencias 
+    para ayudar a construir un mundo digital más innovador y sólido.
 
 ¡No dudes en contactarme si quieres colaborar en algún proyecto interesante o simplemente charlar sobre tecnología! 😄
 
