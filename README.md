@@ -35,6 +35,7 @@
     para ayudar a construir un mundo digital más innovador y sólido.
 
 ¡No dudes en contactarme si quieres colaborar en algún proyecto interesante o simplemente charlar sobre tecnología! 😄
+
 <h2 align="center">🔔 Social Networking Contact 📲</h2>
 <div align="center">
   
@@ -46,6 +47,14 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/22699041/rodriguezmldo)
 
 </div>
+
+<h2 align="center"> 👨‍💻 Tecnologies 🖥️ </h2>
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JAVA](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?style=for-the-badge&logo=java-colorful) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+
+</div>
+
 <!--
 **rodriguezmldo/rodriguezmldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
