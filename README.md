@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="250">
+    </div>
+    <div align=center >
+        <img src="https://readme-typing-svg.herokuapp.com?color=%7b68ee&size=32&center=true&vCenter=true&width=800&height=55&lines=Hi+there+I'm+Antonio+Rodriguez+%F0%9F%91%8B;Computer+Science+Student;Software+Engineer;Studying+at;Benemérita+Universidad+Autónoma+de+Puebla;Problem+Solver" alt="Headline" />
+</div>
 <!--
 **rodriguezmldo/rodriguezmldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
