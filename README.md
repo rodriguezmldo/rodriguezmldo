@@ -16,7 +16,7 @@
         <a href="https://t.me/rodriguezmldo"><img src="https://img.shields.io/badge/Telegram-0088dc?style=flat&logo=telegram" alt="Telegram" /></a>
 </div>
 
-¡Hola! 👋 Soy Antonio, un estudiante de 18 años de Ingeniería en Sistemas Computacionales en la <a href="https://www.buap.mx/">Benemérita Universidad Autónoma de Puebla</a>.
+¡Hola! 👋 Soy Antonio, un estudiante de 18 años de Ingeniería en Sistemas Computacionales en la <a href="https://www.buap.mx/" target="_blank">Benemérita Universidad Autónoma de Puebla</a>.
 
 **About me**
 
