@@ -7,7 +7,7 @@
 
 <div align=center>
         <a href="https://www.linkedin.com/in/rodriguezmldo/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="mailto:j.antonio-rm@outlook.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+        <a href="mailto:j.antonio-rm@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
             <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=flat&logo=microsoftoutlook&logoColor=white" alt="example"/>
         </a>
         <a href="https://t.me/rodriguezmldo"><img src="https://img.shields.io/badge/Telegram-0088dc?style=flat&logo=telegram" alt="Telegram" /></a>
