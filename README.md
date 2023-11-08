@@ -23,16 +23,12 @@
 - 🌟 Apasionado por el mundo de la tecnología y la programación.
 - 💻 Mis principales intereses abarcan el Desarrollo Web, el Desarrollo de Videojuegos, el Mantenimiento de Software y Hardware, 
     Bases de Datos y Componentes Electrónicos.
-- ⌨️ En mi tiempo libre, me dedico a mejorar mis habilidades de mecanografía y participo activamente en foros en inglés 
-    para mantenerme actualizado.
-- 🚀 Siempre estoy trabajando en el desarrollo y depuración de nuevos proyectos, buscando aprender y crecer.
 
 **Objectives**
 
 - 🎯 Mis expectativas personales giran en torno a formarme como un desarrollador competente, con las habilidades y herramientas 
     necesarias para contribuir en proyectos colaborativos, de código abierto y personales.
-- 🌐 Me esfuerzo por ser parte de la comunidad de desarrolladores, compartiendo conocimientos y experiencias 
-    para ayudar a construir un mundo digital más innovador y sólido.
+- 🌐 Me esfuerzo por ser parte de la comunidad de desarrolladores, compartiendo conocimientos y experiencias.
 
 ¡No dudes en contactarme si quieres colaborar en algún proyecto interesante o simplemente charlar sobre tecnología! 😄
 
