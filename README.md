@@ -16,7 +16,7 @@
         </a>  
 </div>
 
-¡Hola! 👋 Soy Antonio, un estudiante de 18 años de Ingeniería en Sistemas Computacionales en la <a href="https://www.buap.mx/" target="_blank">Benemérita Universidad Autónoma de Puebla</a>.
+¡Hola! 👋 Soy Antonio, un estudiante de 20 años de Ingeniería en Sistemas Computacionales en la <a href="https://www.buap.mx/" target="_blank">Benemérita Universidad Autónoma de Puebla</a>.
 
 **About me**
 
